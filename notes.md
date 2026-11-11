@@ -1,4 +1,5 @@
 ## Prediction
+
 - Claude will note adding new const fileName, new createFileName and using them in 'store.js'. It also will note the line split on line 20 in 'check.js'
 
 ## Claude response
